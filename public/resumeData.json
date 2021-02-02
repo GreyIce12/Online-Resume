@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Mario Fagan",
+    "occupation": "Frontend Web Developer",
+    "description": "I am junior developer ready and excited to take on what web development has to offer",
+    "image": "profilepic.jpg",
+    "bio": "Hi guys whats up its mario fagan from clean code clan I am a junior developer with a passion for Web Development. I am currently a junior year college student that studies computer and information systems. I like movies, anime, chess, helping others and programming of course! ",
+    "contactmessage": "contact me and see what i have to offer",
+    "email": "mariofagan1999@gmail.com",
+    "phone": "+1876-377-4464",
+    "address": {
+      "street": "Thompson Town P.O.",
+      "city": "Maypen",
+      "state": "Clarendon, Jamaica",
+      "zip": ""
+    },
+    
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCyuEp0uoFT8YtAzvFabqu3g",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mario.fagan.92",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mario-fagan-b71aa71b5/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/grey__ice/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/GreyIce12/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Northern Caribbean University",
+        "degree": "Bachelor's Degree, Computer Information System",
+        "graduated": "Still enrolled",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "25%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "Web Development",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Cooking Landing Page",
+        "category": "",
+        "image": "pastries.PNG",
+        "url": ""
+      },
+      {
+        "title": "Todo App",
+        "category": "",
+        "image": "todo App.PNG",
+        "url": "https://todo-app.vercel.app/"
+      },
+      {
+        "title": "Weather App",
+        "category": "",
+        "image": "Weather App.PNG",
+        "url": "https://weather-app-six-theta.vercel.app/"
+      }
+      
+    ]
+  }
+}
